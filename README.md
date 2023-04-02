@@ -1,6 +1,4 @@
-### Hello stranger 🙋
-### This is Master-Develper-Dream-Tree's GitHub
-
+### hi there
 
 <!--
 **chaeminsoo/chaeminsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
