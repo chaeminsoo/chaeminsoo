@@ -1,6 +1,6 @@
 ### hi there 👋
 
-I am a Problem Solver who is interested in `AI`, `Data Analysis`, and `Recommendation Systems`.  
+I am a Problem Solver who is interested in `AI`, `Data Analysis`, and `Recommendation System`.  
 
 <!--
 **chaeminsoo/chaeminsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
